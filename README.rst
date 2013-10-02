@@ -1,3 +1,12 @@
+
+Note: This is a fork of the original `typogrify` project made especially
+for `Engineer<http://www.github.com/tylerbutler/engineer/>`_. The
+modifications are very minor:
+
+- SmartyPants defaults changed so that `--` is interpreted as an en-dash
+and `---` is interpreted as an em-dash. I don't know why in the world this
+isn't the default.
+
 typogrify: Filters to make web typography easier
 ================================================================
 
